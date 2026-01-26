@@ -41,6 +41,8 @@ Random-Password-Generator/
 └── assets/
 └── password-generator-preview.png
 
+```
+
 ## 🖼️ Preview
 <img width="282" height="290" alt="Image" src="https://github.com/user-attachments/assets/1137ce30-1d39-4719-8bdb-b30e08186455" />
 <img width="282" height="290" alt="Image" src="https://github.com/user-attachments/assets/cfa9cea6-e24d-4c69-8f40-4e129f81db64" />
