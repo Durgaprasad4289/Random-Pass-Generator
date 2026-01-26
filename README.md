@@ -31,6 +31,7 @@ This project demonstrates **JavaScript logic, conditional handling, and DOM mani
 ----
 
 ## 📁 Project Structure
+```text
 
 Random-Password-Generator/
 │
